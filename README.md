@@ -1,0 +1,1 @@
+This is my first project that's part of the Foundations course on The Odin Project.
