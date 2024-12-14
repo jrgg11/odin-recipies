@@ -1,0 +1,20 @@
+.title{
+    text-align: center;
+    font-size: 48px;
+}
+div#title-box{
+    background-color: aliceblue;
+    border: 5px;
+    border-style: solid;
+    border-color: blue;
+    padding: 8px;
+    margin: 12px;
+}
+li{
+    margin: 3px;
+    margin: 2px;
+    border: 1px;
+    padding: 2px;
+    background-color: blanchedalmond;
+    border-style: dashed;
+}

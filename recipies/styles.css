@@ -1,0 +1,44 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-align: center;
+    background-color: burlywood;
+    padding: 10px;
+    margin: 24px;
+    border: 3px;
+    border-style: dotted;
+    border-color: brown;
+    font-size: 48px;
+}
+
+img{
+    margin-left: 30% ;
+    border: 1px;
+    border-style: groove;
+    border-color: bisque;
+}
+
+h3{
+    margin: auto;
+    padding: 8px;
+    background-color: red;
+    width: fit-content;
+    margin-left: 0;
+    text-decoration: underline;
+    color: white;
+}
+
+p{
+    font-size: larger;
+}
+
+ul li{
+    margin-bottom: 3px;
+}
+
+ol li{
+    margin-bottom: 5px;
+    font-size: medium;
+}
